@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jchowar
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to start my carrer in the computer engineering industry
-- 📫 I can be reached at jchowar@g.clemson.edu
+- 💞️ I’m a Field Application Specialist for Diligent Robotics
+- 📫 I can be reached at jhoward@diligentrobots.com
 
 <!---
 jchowar/jchowar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
